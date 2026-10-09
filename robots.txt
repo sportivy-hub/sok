@@ -1,0 +1,6 @@
+# robots.txt for GitHub Pages Event Directory Hub
+User-agent: *
+Allow: /
+
+# XML Sitemap for Googlebot & Bingbot
+Sitemap: https://sportivy-hub.github.io/sok/sitemap.xml
