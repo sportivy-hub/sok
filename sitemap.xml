@@ -2,43 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sportivy-hub.github.io/sok/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sportivy-hub.github.io/sok/event-directory-efhmtb-part-1.html</loc>
-    <lastmod>2026-10-12</lastmod>
+    <loc>https://sportivy-hub.github.io/sok/event-directory-ychgmt-part-1.html</loc>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sportivy-hub.github.io/sok/event-directory-efhmtb-part-2.html</loc>
-    <lastmod>2026-10-12</lastmod>
+    <loc>https://sportivy-hub.github.io/sok/event-directory-ychgmt-part-2.html</loc>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sportivy-hub.github.io/sok/event-directory-efhmtb-part-3.html</loc>
-    <lastmod>2026-10-12</lastmod>
+    <loc>https://sportivy-hub.github.io/sok/event-directory-ychgmt-part-3.html</loc>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sportivy-hub.github.io/sok/event-directory-efhmtb-part-4.html</loc>
-    <lastmod>2026-10-12</lastmod>
+    <loc>https://sportivy-hub.github.io/sok/event-directory-ychgmt-part-4.html</loc>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sportivy-hub.github.io/sok/event-directory-efhmtb-part-5.html</loc>
-    <lastmod>2026-10-12</lastmod>
+    <loc>https://sportivy-hub.github.io/sok/event-directory-ychgmt-part-5.html</loc>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sportivy-hub.github.io/sok/event-directory-efhmtb-part-6.html</loc>
-    <lastmod>2026-10-12</lastmod>
+    <loc>https://sportivy-hub.github.io/sok/event-directory-ychgmt-part-6.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sportivy-hub.github.io/sok/event-directory-ychgmt-part-7.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sportivy-hub.github.io/sok/event-directory-ychgmt-part-8.html</loc>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
